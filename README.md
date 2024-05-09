@@ -1,5 +1,5 @@
 # cs_py
-crawl buff, igxe, c5 | 获取buff等平台的数据
+crawl buff, igxe, c5 | 获取buff，igxe，c5平台的数据
 
 user头和cookie填自己的，
 chromedriver安装好填自己的路径
